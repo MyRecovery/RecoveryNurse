@@ -657,7 +657,7 @@ var PNG={
   kort:'billedkort',
   autopilot:'fagligautopilot',
   sim:'densværesamtale',
-  kompas:'livetskompasnål',
+  kompas:'livetskompas',
   gps:'relationsgps'
 };
 ill=function(k){
